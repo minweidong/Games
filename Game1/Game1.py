@@ -1,6 +1,6 @@
 # coding: utf-8
 # 作者: Charles
-# 公众号: Charles的皮卡丘1123
+# 公众号: Charles的皮卡丘1123456
 # 导入pygame库，这一步能让你使用库里提供的功能
 import pygame
 from pygame.locals import *
